@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //功能1开始敲代码 霹雳啪啊
+        //功能1完成
     }
 }
